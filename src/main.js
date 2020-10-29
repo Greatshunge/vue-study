@@ -14,7 +14,7 @@ import enLang from "element-ui/lib/locale/lang/en"; // 如果使用中文语言�
 import "@/styles/index.scss"; // global css
 
 import "./icons"; // icon
-// import './permission' // permission control
+import "./permission"; // permission control
 import "./utils/error-log"; // error log
 
 Vue.use(Element, {
